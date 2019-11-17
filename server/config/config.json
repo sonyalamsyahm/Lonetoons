@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "db_lonetoon",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "fdptcyostvivgx",
+    "password": "446667aa38011082de20eb436d22ae76c780db84320ab4621ac25a328c0f3ec8",
+    "database": "d5t3k13rbsn2np",
+    "host": "ec2-23-21-160-38.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}

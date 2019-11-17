@@ -1,0 +1,1 @@
+const colorOfFont = 'white';
